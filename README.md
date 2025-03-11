@@ -2,7 +2,7 @@
 
 Este projeto demonstra a implementação de abas interativas em uma página web, conforme apresentado na imagem.
 
-![](./imagens/img.png)
+![](./src/imagens/img.png)
 
 ## Visão Geral
 
