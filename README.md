@@ -31,22 +31,6 @@ O projeto consiste em uma interface de usuário com as seguintes seções princi
 1.  Clone o repositório para sua máquina local.
 2.  Abra o arquivo `index.html` em seu navegador web.
 
-## Estrutura do Projeto
-
-TABS/
-├── index.html
-└── src/
-    ├── javascript/
-    │   └── script.js
-    ├── styles/
-    │   └── styles.css
-    └── imagens/
-        ├── home.svg
-        ├── about.svg
-        ├── services.svg
-        ├── contacts.svg
-        └── location.svg
-
 ## Implementação das Abas
 
 A interatividade das abas é implementada usando JavaScript. Quando uma aba é clicada, o conteúdo correspondente é exibido e as outras abas são desativadas.
